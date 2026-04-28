@@ -13,8 +13,8 @@ night_mode = False
 last_active = time.time()
 replied_users = {}
 
-INACTIVE_TIME = 120
-REPLY_COOLDOWN = 60
+INACTIVE_TIME = 10
+REPLY_COOLDOWN = 5
 
 # 👑 VIP user (তুমি)
 VIP_USERS = [7509752074]
